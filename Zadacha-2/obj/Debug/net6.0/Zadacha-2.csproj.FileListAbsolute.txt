@@ -1,0 +1,15 @@
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\DZ\Zadacha-2\bin\Debug\net6.0\Zadacha-2.exe
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\DZ\Zadacha-2\bin\Debug\net6.0\Zadacha-2.deps.json
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\DZ\Zadacha-2\bin\Debug\net6.0\Zadacha-2.runtimeconfig.json
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\DZ\Zadacha-2\bin\Debug\net6.0\Zadacha-2.dll
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\DZ\Zadacha-2\bin\Debug\net6.0\Zadacha-2.pdb
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\DZ\Zadacha-2\obj\Debug\net6.0\Zadacha-2.csproj.AssemblyReference.cache
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\DZ\Zadacha-2\obj\Debug\net6.0\Zadacha-2.GeneratedMSBuildEditorConfig.editorconfig
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\DZ\Zadacha-2\obj\Debug\net6.0\Zadacha-2.AssemblyInfoInputs.cache
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\DZ\Zadacha-2\obj\Debug\net6.0\Zadacha-2.AssemblyInfo.cs
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\DZ\Zadacha-2\obj\Debug\net6.0\Zadacha-2.csproj.CoreCompileInputs.cache
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\DZ\Zadacha-2\obj\Debug\net6.0\Zadacha-2.dll
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\DZ\Zadacha-2\obj\Debug\net6.0\refint\Zadacha-2.dll
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\DZ\Zadacha-2\obj\Debug\net6.0\Zadacha-2.pdb
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\DZ\Zadacha-2\obj\Debug\net6.0\Zadacha-2.genruntimeconfig.cache
+G:\•Р•А•Б•О•Т•А•\• A • M • i • C • O •-\!_ОБУЧЕНИЕ\Знакомство с языками программирования (лекции)\Файлы\DZ\Zadacha-2\obj\Debug\net6.0\ref\Zadacha-2.dll
