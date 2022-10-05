@@ -9,8 +9,8 @@ int i = 1;
             Console.WriteLine("Введите число N:");
             num = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Чётные числа от 1 до " + num_N);
-            while (i <= num_N)
+            Console.WriteLine("Чётные числа от 1 до " + num);
+            while (i <= num)
             {
                 if (i % 2 != 1)
                 {
